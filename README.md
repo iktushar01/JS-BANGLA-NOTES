@@ -19,7 +19,7 @@
 <details>
   <summary><strong>📁 মৌলিক জাভাস্ক্রিপ্ট</strong></summary>
 
-  - [ভেরিয়েবল ও ডাটা টাইপ](Basic-JS/variables.md)  
+  - [JavaScript পরিচিতি ও VS Code-এ রান করার গাইড](Introduction-to-JavaScript/Introduction-of-js.md)  
   - [অপারেটরস](Basic-JS/operators.md)  
   - [কন্ডিশনাল স্টেটমেন্ট](Basic-JS/conditional.md)  
   - [লুপ ও ইটারেশন](Basic-JS/loops.md)  
