@@ -8,8 +8,8 @@
 ## 📂 ফোল্ডার সূচি
 
 <details>
-  <summary><strong> ## 📁 [Introduction-to-JavaScript](./Introduction-to-JavaScript/) </strong></summary>
-
+<summary><strong>📁 Introduction-to-JavaScript </strong></summary>
+  
   - [JavaScript পরিচিতি ও VS Code-এ রান করার গাইড](Introduction-to-JavaScript/Introduction-of-js.md)  
   - [অপারেটরস](Basic-JS/operators.md)  
   - [কন্ডিশনাল স্টেটমেন্ট](Basic-JS/conditional.md)  
