@@ -7,7 +7,6 @@
 
 ## 📂 ফোল্ডার সূচি
 
-<details>
 <strong>📁 Introduction-to-JavaScript </strong>
   
   - [JavaScript পরিচিতি ও VS Code-এ রান করার গাইড](Introduction-to-JavaScript/Introduction-of-js.md)  
@@ -19,9 +18,7 @@
   - [Arithmetic Operators](Introduction-to-JavaScript/Arithmetic-Operators.md)  
   - [Mathematical Operation Shorthand](Introduction-to-JavaScript/Mathematical-Operation-Shorthand.md)  
   
-</details>
 
-<details>
 <strong>📁 অ্যাডভান্সড জাভাস্ক্রিপ্ট</strong>
 
   - [প্রমিস ও অ্যাসিনক্রোনাস](Advanced-JS/promise-async.md)  
@@ -31,7 +28,6 @@
   - [ডাটা স্ট্রাকচার ও অ্যালগরিদম](Advanced-JS/data-structures.md)  
   - [জাভাস্ক্রিপ্ট পারফরম্যান্স অপটিমাইজেশন](Advanced-JS/performance.md)  
 
-</details>
 
 ---
 
