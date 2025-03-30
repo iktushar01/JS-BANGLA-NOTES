@@ -11,16 +11,14 @@
 <summary><strong>📁 Introduction-to-JavaScript </strong></summary>
   
   - [JavaScript পরিচিতি ও VS Code-এ রান করার গাইড](Introduction-to-JavaScript/Introduction-of-js.md)  
-  - [অপারেটরস](Basic-JS/operators.md)  
-  - [কন্ডিশনাল স্টেটমেন্ট](Basic-JS/conditional.md)  
-  - [লুপ ও ইটারেশন](Basic-JS/loops.md)  
-  - [ফাংশন](Basic-JS/functions.md)  
-  - [অ্যারে ও অবজেক্ট](Basic-JS/array-object.md)  
-  - [ES6 ফিচার](Basic-JS/es6.md)  
-  - [ডিবাগিং টেকনিক](Basic-JS/debugging.md)  
-  - [DOM ম্যানিপুলেশন](Basic-JS/dom.md)  
-  - [ইভেন্ট হ্যান্ডলিং](Basic-JS/event-handling.md)  
-
+  - [প্রোগ্রামিংয়ের জন্য গণিতের বিস্তারিত ধারণা](Introduction-to-JavaScript/pre-math-knowledge-needed-for-js.md)  
+  - [ভ্যারিয়েবল কি?](Introduction-to-JavaScript/what-is-variable.md)  
+  - [ভ্যারিয়েবলের ডাটা টাইপ](Introduction-to-JavaScript/Variable-Data-Types.md)  
+  - [JavaScript কীওয়ার্ড](Introduction-to-JavaScript/JavaScript-Keywords.md)  
+  - [JavaScript Numbers](Introduction-to-JavaScript/JavaScript-Numbers.md)  
+  - [Arithmetic Operators](Introduction-to-JavaScript/Arithmetic-Operators.md)  
+  - [Mathematical Operation Shorthand](Introduction-to-JavaScript/Mathematical-Operation-Shorthand.md)  
+  
 </details>
 
 <details>
