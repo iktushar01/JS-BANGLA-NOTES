@@ -8,7 +8,7 @@
 ## 📂 ফোল্ডার সূচি
 
 <details>
-<summary><strong>📁 Introduction-to-JavaScript </strong></summary>
+<strong>📁 Introduction-to-JavaScript </strong>
   
   - [JavaScript পরিচিতি ও VS Code-এ রান করার গাইড](Introduction-to-JavaScript/Introduction-of-js.md)  
   - [প্রোগ্রামিংয়ের জন্য গণিতের বিস্তারিত ধারণা](Introduction-to-JavaScript/pre-math-knowledge-needed-for-js.md)  
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary><strong>📁 অ্যাডভান্সড জাভাস্ক্রিপ্ট</strong></summary>
+<strong>📁 অ্যাডভান্সড জাভাস্ক্রিপ্ট</strong>
 
   - [প্রমিস ও অ্যাসিনক্রোনাস](Advanced-JS/promise-async.md)  
   - [ক্লোজার ও হোইস্টিং](Advanced-JS/closure-hoisting.md)  
